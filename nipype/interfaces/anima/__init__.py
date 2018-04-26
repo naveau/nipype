@@ -10,3 +10,5 @@ This module defines the API of Anima interfaces.
 
 # Utils
 from .utils import (CropImage)
+
+from .registration import (PyramidalBMRegistration)
